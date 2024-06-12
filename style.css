@@ -1,0 +1,32 @@
+.flex-container {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    line-height: 0
+    ;
+}
+.second-flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+} 
+.third {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+hr {
+    border: none;
+    height: 1.5px;
+    color: #333;  
+    background-color: #333;  
+  }
+  div {
+    font-family: monospace;
+}
+h2 {
+    font-family: monospace;
+}
+p {
+    font-family: monospace;
+}
